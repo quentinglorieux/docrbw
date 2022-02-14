@@ -2,6 +2,10 @@
 
 ## Setup
 
+```bash
+npm install @nuxt/content
+```
+
 Install dependencies:
 
 ```bash

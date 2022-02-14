@@ -1,10 +1,9 @@
 {
-  "title": "LKB documentation",
+  "title": "RBW docs",
   "url": "",
   "logo": {
-    "light": "/logo-lkb-light.svg",
-    "dark": "/logo-lkb-dark.svg"
+    "light": "/Logo_blue-light.svg",
+    "dark": "/Logo_blue-dark.svg"
   },
-  "github": "quentinglorieux/doclkb",
-  "twitter": "@nuxt_js"
+  "github": "quentinglorieux/docrbw"
 }
