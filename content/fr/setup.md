@@ -1,16 +1,16 @@
 ---
-title: Titre en francais
+title: Title Page
 description: ''
 position: 2
-category: Équipe Rubidium
+category: Coding database
 ---
 
-Vos details
+You can add details here
 <!-- Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossary/configuration-modules) for more information about installing and using modules in Nuxt.js. -->
 
-## Titre de type 2
+## Title type 2
 
-Et votre code ici
+You can type code directly
 
 <code-group>
   <code-block label="Code 1" active>
@@ -30,9 +30,9 @@ type your code here
   </code-block>
 </code-group>
 
-Ajouter la suite ainsi
+Then, add `modules` to Tangui's code
 
-```js[ttangui.config.js]
+```js[tangui.config.js]
 {
   modules: [
     '@tangui/xxx'
@@ -42,3 +42,5 @@ Ajouter la suite ainsi
   }
 }
 ```
+<alert type="warning"> Be careful with your code here ! <br>
+Add comment otherwise Quentin will be mad</alert>

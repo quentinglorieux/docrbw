@@ -8,7 +8,7 @@ items:
   - Item2
   - Item3
 ---
-# Titre 1: Elements pas de traduction pour cette page
+# Titre 1: Elements
 
 ## Titre 2: Alert
 
