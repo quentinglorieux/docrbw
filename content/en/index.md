@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: 'Description here'
+description: 'RubidiumWeb documentation'
 position: 1
 category: ''
 features:
