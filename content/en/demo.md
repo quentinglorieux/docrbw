@@ -41,7 +41,9 @@ items:
   <code-block label="Python">
 
   ```python
-  for item in items 
+  for item in items:
+    pass
+  
   ```
 
   </code-block>
