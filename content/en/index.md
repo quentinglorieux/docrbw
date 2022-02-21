@@ -4,7 +4,7 @@ description: 'RubidiumWeb documentation'
 position: 1
 category: ''
 features:
-  - Arxiv 2
+  - Arxiv 3
   - HAL integration
   - ORCID connect
 ---
