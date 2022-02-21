@@ -1,6 +1,6 @@
-# doclkb
+# Generate a static documentation for Rubidium Web 2.0
 
-## Setup
+## How to install locally
 
 ```bash
 npm install @nuxt/content
@@ -12,13 +12,13 @@ Install dependencies:
 npm run install
 ```
 
-## Development
+## Run a Development Server
 
 ```bash
 npm run dev
 ```
 
-## Static Generation
+## Launch Static Generation on your server
 
 This will create the `dist/` directory for publishing to static hosting:
 
