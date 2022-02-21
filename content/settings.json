@@ -1,9 +1,10 @@
 {
-  "title": "RBW docs",
-  "url": "https://docrbw.vercel.app/",
+  "title": "Rubidium Web docs",
+  "url": "https://docs.rubidiumweb.eu/",
   "logo": {
     "light": "/logo-light.png",
-    "dark": "/Logo_blue-dark.svg"
+    "dark": "/logo-light.png"
+    //"dark": "/Logo_blue-dark.svg"
   },
   "github": "quentinglorieux/docrbw"
 }
