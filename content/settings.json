@@ -2,7 +2,7 @@
   "title": "Rubidium Web docs",
   "url": "https://docs.rubidiumweb.eu/",
   "logo": {
-    "light": "//Logo_blue-light.svg",
+    "light": "/Logo_blue-light.svg",
     "dark": "/logo-light.png"
     //"dark": "/Logo_blue-dark.svg"
   },
