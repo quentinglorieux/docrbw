@@ -24,7 +24,7 @@ The RBW documentations starts here
 
 </alert>
 
-## Labs
+## Nos outils
 
 <list :items="features"></list>
 
