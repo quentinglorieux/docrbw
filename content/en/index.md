@@ -6,7 +6,7 @@ category: ''
 features:
   - Arxiv
   - HAL integration
-  - ORCID connect X
+  - ORCID connect
 ---
 
 <!-- <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
