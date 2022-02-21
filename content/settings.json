@@ -2,7 +2,7 @@
   "title": "RBW docs",
   "url": "https://docrbw.vercel.app/",
   "logo": {
-    "light": "/Logo_blue-light.svg",
+    "light": "/logo-light.png",
     "dark": "/Logo_blue-dark.svg"
   },
   "github": "quentinglorieux/docrbw"
