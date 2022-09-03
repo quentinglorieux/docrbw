@@ -1,7 +1,7 @@
 ---
 title: Getting started
 description: 'Step by step tutorial'
-position: 1
+position: 2
 category: ''
 ---
 
