@@ -1,8 +1,8 @@
 ---
 title: Publications
 description: ''
-position: 3
-category: Adding content
+position: 22
+category: Adding new content
 ---
 
 

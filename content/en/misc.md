@@ -1,7 +1,7 @@
 ---
-title: Research topics
+title: Other content
 description: ''
-position: 21
+position: 25
 category: Adding new content
 ---
 
@@ -9,4 +9,5 @@ category: Adding new content
 ## Title type 2
 
 You can type code directly
+
 

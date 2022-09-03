@@ -1,7 +1,7 @@
 ---
 title: Demo Page
 description: ''
-position: 3
+position: 100
 category: To be deleted
 items:
   - Item1

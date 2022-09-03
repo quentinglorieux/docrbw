@@ -1,8 +1,8 @@
 ---
-title: People
+title: Avalaible content
 description: ''
-position: 4
-category: Adding content
+position: 12
+category: General
 ---
 
 
