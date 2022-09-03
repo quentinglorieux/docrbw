@@ -1,7 +1,7 @@
 ---
-title: Quick edit
+title: WYSIWYG editor 
 description: ''
-position: 33
+position: 35
 category: Viewing/Editing content
 ---
 
