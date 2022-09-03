@@ -1,5 +1,11 @@
 # Generate a static documentation for Rubidium Web 2.0
 
+## Install Nuxt first
+
+```bash
+npm install nuxt
+```
+
 ## How to install locally
 
 ```bash
