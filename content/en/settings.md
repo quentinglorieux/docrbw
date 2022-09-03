@@ -10,3 +10,6 @@ category: General
 
 You can type code directly
 
+<article-image src="settings1.png" alt="settings" 
+size="100" :center="false">
+</article-image>
