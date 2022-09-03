@@ -20,7 +20,7 @@ Link example: [arxiv](http://arxiv.org).
 
 <alert type="success">
 
-The RBW documentations starts here and there 
+The RBW documentations starts here and  
 
 </alert>
 
