@@ -2,7 +2,7 @@
 title: Demo Page
 description: ''
 position: 3
-category: Elements
+category: To be deleted
 items:
   - Item1
   - Item2
