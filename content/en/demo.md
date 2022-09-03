@@ -100,3 +100,8 @@ Here's a sentence with a footnote. [^1]
 - [ ] Update the website
 - [ ] Contact the media
 
+## Images
+
+<article-image src="logoHouches.jpg" alt="logo les Houches" 
+size="25" :center="false">
+</article-image>
