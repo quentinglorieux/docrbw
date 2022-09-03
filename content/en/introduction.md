@@ -9,7 +9,16 @@ features:
   - ORCID connect
 ---
 
-Welcome home 
+Welcome to the Rubidium Web documentation.
+
+You can find a step by step tutorial to 
+
+If you have a spectific question jump to.
+
+
+<alert type="warning">
+Your website is build in Wordpress 6 but you don't need any prior knowledge in Wordpress to build and edit your website.
+</alert>
 
 
 
