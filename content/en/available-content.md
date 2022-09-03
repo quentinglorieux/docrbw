@@ -1,5 +1,5 @@
 ---
-title: Avalaible content
+title: Available content
 description: ''
 position: 12
 category: General

@@ -1,7 +1,7 @@
 ---
 title: Other content
 description: ''
-position: 25
+position: 26
 category: Adding new content
 ---
 

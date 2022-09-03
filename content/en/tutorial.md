@@ -1,5 +1,5 @@
 ---
-title: Step by step tutorial
+title: Getting started
 description: 'Step by step tutorial'
 position: 1
 category: ''

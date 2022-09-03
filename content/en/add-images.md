@@ -2,7 +2,7 @@
 title: Add images
 description: ''
 position: 41
-category: Images
+category: Images and files
 ---
 
 

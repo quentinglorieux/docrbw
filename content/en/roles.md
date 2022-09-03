@@ -1,8 +1,8 @@
 ---
-title: Members
+title: Roles and authorization
 description: ''
-position: 22
-category: Adding new content
+position: 51
+category: Admin settings
 ---
 
 

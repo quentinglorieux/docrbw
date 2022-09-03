@@ -2,7 +2,7 @@
 title: Good practices
 description: ''
 position: 43
-category: Images
+category: Images and files
 ---
 
 

@@ -2,7 +2,7 @@
 title: Edit images
 description: ''
 position: 42
-category: Images
+category: Images and files
 ---
 
 

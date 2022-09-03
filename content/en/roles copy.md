@@ -1,8 +1,8 @@
 ---
-title: Members
+title: Intranet (if avalaible)
 description: ''
-position: 22
-category: Adding new content
+position: 52
+category: Admin settings
 ---
 
 
