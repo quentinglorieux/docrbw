@@ -7,7 +7,7 @@ category: General
 ---
 
 
-## Graphic settings
+## General graphic settings
 
 You can Manage your general graphic site Settings with the <text-image src="MenuSiteSettings.JPG" alt="Site Settings" size="15"></text-image> Menu on Admin interface 
 
@@ -15,7 +15,7 @@ You can Manage your general graphic site Settings with the <text-image src="Menu
   2. Secondary Color - Constrasting color, borders and titles
   3. Text Color - General text color
   4. Highlight Color - Other or same color than secondary color, use for links 
-  5. Site Banner - Home page banner or full screen image
+  5. Site Banner - Home page, banner or full screen image
   6. Site Icon - Icon of the project
 
   we advise you to use colors present in your "banner image" for the rest of the site by using a color picker.
