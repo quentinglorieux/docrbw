@@ -7,7 +7,7 @@ category: General
 ---
 
 
-## Site and Footer settings
+## Graphic settings
 
 You can Manage your general graphic site Settings with the <text-image src="MenuSiteSettings.JPG" alt="Site Settings" size="15"></text-image> Menu on Admin interface 
 
