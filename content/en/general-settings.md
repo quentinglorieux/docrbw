@@ -1,5 +1,5 @@
 ---
-title: Site and Footer settings
+title: General settings
 description: ''
 position: 11
 category: General
@@ -7,7 +7,7 @@ category: General
 ---
 
 
-## Site and Footer settings
+## General settings
 
 You can Manage your general site Settings with the <text-image src="MenuSiteSettings.JPG" alt="Site Settings" size="15"></text-image> Menu on Admin interface 
 
